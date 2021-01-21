@@ -38,3 +38,7 @@ thirtd line
 | ------------- |:-------------:| -----:|
 | col1  | are  |left-align |
 |  col3|  are | right-align|
+
+## insert picture
+
+![Image text](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1228117569,2186082610&fm=26&gp=0.jpg)
